@@ -1,0 +1,21 @@
+{
+  "editor.linkedEditing": true,
+  "workbench.colorTheme": "Visual Studio Dark",
+  "files.autoSave": "onWindowChange",
+  "editor.formatOnSave": true,
+  "editor.smoothScrolling": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "diffEditor.hideUnchangedRegions.enabled": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.startupEditor": "none",
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "editor.detectIndentation": false,
+  "editor.renderWhitespace": "boundary",
+  "editor.insertSpaces": false
+}
