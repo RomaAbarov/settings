@@ -1,0 +1,41 @@
+{
+  "editor.linkedEditing": true,
+  "files.autoSave": "onWindowChange",
+  "editor.formatOnSave": true,
+  "editor.smoothScrolling": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.startupEditor": "none",
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "editor.detectIndentation": false,
+  "editor.renderWhitespace": "boundary",
+  "editor.insertSpaces": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "emmet.extensionsPath": ["C:\\Users\\romaa\\OneDrive\\Dokumenty\\GitHub\\"],
+  "editor.tabSize": 2,
+  "diffEditor.hideUnchangedRegions.enabled": true,
+  "workbench.editor.enablePreview": false,
+  "gitlens.gitCommands.skipConfirmations": [
+    "fetch:command",
+    "stash-push:command",
+    "switch:command"
+  ],
+  "gitlens.graph.minimap.additionalTypes": ["stashes", "localBranches"],
+  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.activeIconPack": "react",
+  "workbench.colorTheme": "Default Dark+",
+  "tailwindCSS.experimental.configFile": "src/app/globals.scss",
+  "notebook.editorOptionsCustomizations": {
+		
+	}
+}
